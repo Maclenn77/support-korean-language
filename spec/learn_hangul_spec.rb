@@ -1,11 +1,11 @@
-require './lib/learn_korean'
+require './lib/learn_hangul'
 require 'spec_helper'
 
 class DummyClass
-  include LearnKorean
+  include LearnHangul
 end
 
-describe LearnKorean do
+describe LearnHangul do
   let(:object) { DummyClass.new }
 
   it 'prints KOREAN_VOWELS' do

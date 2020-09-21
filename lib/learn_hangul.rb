@@ -1,4 +1,4 @@
-module LearnKorean
+module LearnHangul
   KOREAN_VOWELS = %w[ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ ㅔ ㅐ ㅚ ㅟ ㅑ ㅕ ㅛ ㅠ ㅖ ㅒ ㅘ ㅝ ㅢ ㅞ ㅙ].freeze
   KOREAN_CONSONANTS = %w[ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅎ ㅋ ㅌ ㅍ ㅊ ㄲ ㄸ ㅃ ㅆ ㅉ].freeze
   CONSONANT_NAMES = { 'ㄱ' => '기역', 'ㄴ' => '니은', 'ㄷ' => '디귿', 'ㄹ' => '리을',
