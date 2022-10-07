@@ -1,6 +1,6 @@
 # Learn Korean
 
-This is a module with tools and constants for the Korean language
+This is a module with tools and constants for the Korean language. Contribute, please!
 
 
 ## :hammer: Built With
